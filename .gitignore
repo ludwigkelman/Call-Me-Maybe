@@ -1,0 +1,12 @@
+# Ignorar todas las carpetas __pycache__ en cualquier nivel del proyecto
+**/__pycache__/
+
+# Ignorar todos los archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos temporales de editores de texto como Vim (opcional pero muy recomendado ya que usas Vim)
+*.swp
+*.swo
+.netrwhist
